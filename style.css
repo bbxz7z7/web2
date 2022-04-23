@@ -1,0 +1,34 @@
+.headDiv {
+    margin:0px auto;
+    width: 1000px;
+    height: 60px;
+    background-color: #66FF59;
+}
+
+.bodyDiv {
+    display: flex;
+    margin:10px auto;
+    width: 1000px;
+    height: 500px;
+    background-color: 	#66FF59;
+
+}
+
+.center {
+    margin: 15px auto;
+    width: 200px;
+    background-color: #75409A;
+}
+
+.foodDiv {
+    margin: 0px auto;
+    width: 1000px;
+    height: 50px;
+    background-color: 	#66FF59;
+}
+
+.body {
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
